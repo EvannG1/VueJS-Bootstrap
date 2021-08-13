@@ -1,6 +1,14 @@
 <template>
-  <div>
-    Hello world
+  <div class="w-100">
+    <main>
+      <Sidebar />
+      <div class="dash-container">
+        <Navbar />
+        <div class="dash-wrapper">
+          test
+        </div>
+      </div>
+    </main>
   </div>
 </template>
 
